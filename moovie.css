@@ -1,0 +1,25 @@
+body 
+{
+    background-color: #2A3B52;
+}
+.containerAll
+{
+    display: flex;
+    flex-flow: column;
+    align-items: center ;
+}
+.Moovie1,.Moovie2
+{
+    width: 100%;
+}
+.boxMoovie{
+    padding-top: 10px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    gap: 20px;
+}
+table,th,
+td {
+    border: 1px solid #333;
+}

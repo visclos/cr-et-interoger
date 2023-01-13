@@ -1,0 +1,14 @@
+{
+    "identite": 
+    {
+	    "prenom" : "diego",
+	    "nom" : "de torres",
+        
+	    "boulot" : "dev Web",
+	    "amis" : 
+            {
+                "1" : "christelle",
+                "2" : "Clovis"
+		    }
+    }        
+}
