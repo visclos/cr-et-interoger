@@ -1,14 +1,24 @@
 {
-    "identite": 
-    {
-	    "prenom" : "diego",
-	    "nom" : "de torres",
-        
-	    "boulot" : "dev Web",
-	    "amis" : 
-            {
-                "1" : "christelle",
-                "2" : "Clovis"
-		    }
-    }        
-}
+    "Seigneur": {
+        "images": {
+            "img": "Images/seigneur.jpg"
+        },
+        "titre": "Seigneur",
+        "realisateur": "peter jackson",
+        "dure": "90 minutes",
+        "sortie": "2015"
+    },
+    "Avatar": {
+        "images": {
+            "img": "Images/2010-avatar.jpg"
+        },
+        "infos": {
+            "titre": "Avatar",
+            "realisateur": "James Cameron",
+            "duree": "160 minutes",
+            "sortie": "2009",
+            "acteur1": ["diego de torres francais"],
+            "acteur2":["clovis leconte francais ","christelle espitalier"]
+        }
+    }
+}    
